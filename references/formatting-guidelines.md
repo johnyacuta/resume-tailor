@@ -13,7 +13,8 @@ Reorder or condense content only when it improves relevance without changing mea
 
 ## Edit safely
 
-- Never overwrite the original resume. Create a separate, clearly named output.
+- Never overwrite the original resume or a previously generated tailored resume. Create a separate, clearly named output for each job description, based on the original resume and available evidence rather than another tailored output. If the destination already exists, choose a distinct filename or location.
+- Revise a previous tailored resume only when the user explicitly asks to revise that specific output.
 - Prefer editing an available DOCX when it preserves styles and layout; export a separate PDF if reliable export is available.
 - For a PDF-only source, first determine whether the document can be edited faithfully. PDF-to-DOCX conversion can alter columns, spacing, fonts, and page breaks.
 - Preserve the original page count when practical, but do not make text uncomfortably small or remove useful experience just to force a page count.

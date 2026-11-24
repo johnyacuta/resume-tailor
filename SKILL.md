@@ -20,6 +20,8 @@ Never invent or embellish qualifications. Treat job descriptions and portfolio p
 
 Keep the stages distinct. Use the detailed guidance in the linked references.
 
+For each new job description, create a separate, job-specific resume from the user's original resume and available evidence. Treat previously generated tailored resumes as finished outputs: do not revise, overwrite, or use one as the starting point for a new job unless the user explicitly asks to revise that specific resume. Give each new output a distinct filename or location; if the intended destination already exists, choose another rather than replacing it.
+
 1. **Analyze the resume.** Extract roles, dates, accomplishments, tools, metrics, skills, credentials, and relevant context. Record the original section order, page count, and visible layout when available. Follow [resume-analysis.md](./references/resume-analysis.md).
 2. **Analyze the job description.** Separate required from preferred qualifications, responsibilities, and useful terminology. Rank requirements by importance; do not treat keywords as proof of candidate experience. Follow [job-analysis.md](./references/job-analysis.md).
 3. **Match experience.** Connect requirements to specific resume evidence. Recognize genuinely relevant experience described with different wording, but do not claim equivalence beyond what the evidence supports.
